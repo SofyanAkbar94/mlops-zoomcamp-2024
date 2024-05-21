@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-2024/02-experiment-tracking/mlruns/0/ae7a3e913bc14003ba3ee4a60fe4d57e/artifacts
+end_time: 1716299066834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae7a3e913bc14003ba3ee4a60fe4d57e
+run_name: stately-steed-956
+run_uuid: ae7a3e913bc14003ba3ee4a60fe4d57e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716299066822
+status: 4
+tags: []
+user_id: codespace

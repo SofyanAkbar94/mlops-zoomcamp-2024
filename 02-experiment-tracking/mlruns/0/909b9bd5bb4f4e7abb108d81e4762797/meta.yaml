@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-2024/02-experiment-tracking/mlruns/0/909b9bd5bb4f4e7abb108d81e4762797/artifacts
+end_time: 1716295170541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 909b9bd5bb4f4e7abb108d81e4762797
+run_name: nimble-perch-215
+run_uuid: 909b9bd5bb4f4e7abb108d81e4762797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716295158162
+status: 3
+tags: []
+user_id: codespace

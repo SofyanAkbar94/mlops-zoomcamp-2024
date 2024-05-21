@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-2024/02-experiment-tracking/mlruns/0/a15e27b0722b411ea5e52d47b43aa697/artifacts
+end_time: 1716300216151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a15e27b0722b411ea5e52d47b43aa697
+run_name: persistent-hawk-960
+run_uuid: a15e27b0722b411ea5e52d47b43aa697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716300215880
+status: 4
+tags: []
+user_id: codespace

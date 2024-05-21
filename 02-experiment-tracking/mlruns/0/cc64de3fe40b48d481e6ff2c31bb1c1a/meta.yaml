@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-2024/02-experiment-tracking/mlruns/0/cc64de3fe40b48d481e6ff2c31bb1c1a/artifacts
+end_time: 1716299914254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc64de3fe40b48d481e6ff2c31bb1c1a
+run_name: sincere-steed-41
+run_uuid: cc64de3fe40b48d481e6ff2c31bb1c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716299914239
+status: 4
+tags: []
+user_id: codespace

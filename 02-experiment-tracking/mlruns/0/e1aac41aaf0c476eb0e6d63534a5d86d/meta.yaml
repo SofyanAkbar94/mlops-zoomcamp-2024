@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-2024/02-experiment-tracking/mlruns/0/e1aac41aaf0c476eb0e6d63534a5d86d/artifacts
+end_time: 1716300241198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1aac41aaf0c476eb0e6d63534a5d86d
+run_name: angry-shrike-348
+run_uuid: e1aac41aaf0c476eb0e6d63534a5d86d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716300241016
+status: 4
+tags: []
+user_id: codespace

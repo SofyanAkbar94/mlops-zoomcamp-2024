@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-2024/02-experiment-tracking/mlruns/0/f1a10d939d684223a678b98ac7d2982c/artifacts
+end_time: 1716297842486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1a10d939d684223a678b98ac7d2982c
+run_name: bemused-zebra-88
+run_uuid: f1a10d939d684223a678b98ac7d2982c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716297827572
+status: 3
+tags: []
+user_id: codespace

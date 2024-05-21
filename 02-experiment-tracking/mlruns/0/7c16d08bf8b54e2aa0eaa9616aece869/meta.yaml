@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-2024/02-experiment-tracking/mlruns/0/7c16d08bf8b54e2aa0eaa9616aece869/artifacts
+end_time: 1716301017281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c16d08bf8b54e2aa0eaa9616aece869
+run_name: worried-robin-745
+run_uuid: 7c16d08bf8b54e2aa0eaa9616aece869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716300997761
+status: 3
+tags: []
+user_id: codespace
