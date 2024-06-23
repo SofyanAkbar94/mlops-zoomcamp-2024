@@ -1,0 +1,8 @@
+Docker compose
+1. C:\Users\msofy\Downloads\mlops-zoomcamp-2024\05-monitoring\models>Docker compose start
+
+Jupyter notebook pipenv
+2. (models-Ka5Y-Y-e) C:\Users\msofy\Downloads\mlops-zoomcamp-2024\05-monitoring\models>pipenv run jupyter notebook
+
+Evidently ui
+3. (models-Ka5Y-Y-e) C:\Users\msofy\Downloads\mlops-zoomcamp-2024\05-monitoring\models>pipenv run jupyter notebook
