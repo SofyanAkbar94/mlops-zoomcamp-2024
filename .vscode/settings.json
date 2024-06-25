@@ -1,0 +1,15 @@
+{
+    "python.testing.pytestArgs": [
+        "06-best-practices"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./06-best-practices",
+        "-p",
+        "test*.py"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
